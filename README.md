@@ -1,7 +1,10 @@
 # aegis-ai-soc-dashboard
 AI-powered SOC dashboard simulating real-time cyber threat intelligence and MITRE ATT&amp;CK analysis
 
-aegis-ai-soc-dashboard Structure
+## 📁 Project Structure
+
+```bash
+aegis-ai-soc-dashboard/
 │
 ├── README.md
 ├── requirements.txt
@@ -48,3 +51,4 @@ aegis-ai-soc-dashboard Structure
 └── docs/
     ├── architecture.md
     └── api_reference.md
+```
